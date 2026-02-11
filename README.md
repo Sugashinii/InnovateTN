@@ -1,16 +1,65 @@
-# React + Vite
+# 🚀 InnovateTN
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Rural Tamil Nadu Clinic Booking & AI Symptom Checker  
+Built for TNWISE 2026
 
-Currently, two official plugins are available:
+## 🌍 Live Demo
+🔗 https://innovate-tn.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+InnovateTN is a web platform designed to help rural Tamil Nadu communities:
 
-## Expanding the ESLint configuration
+- 🏥 Discover nearby clinics
+- 🩺 Check symptoms using AI assistance
+- ⏳ Save travel time
+- 💰 Reduce healthcare costs
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Built with scalability and real-world usability in mind.
+
+---
+
+## ✨ Features
+
+- Modern responsive UI
+- Clinic discovery page
+- AI-powered symptom checker (UI ready)
+- Clean navigation using React Router
+- Deployed on Vercel
+
+---
+
+## 🛠 Tech Stack
+
+- React (Vite)
+- React Router DOM
+- Tailwind CSS
+- Vercel (Deployment)
+
+---
+
+## 📊 Impact Vision
+
+- 4+ Crore rural population targeted
+- ₹2000/year potential savings per family
+- 5000+ clinics searchable
+- Reduce unnecessary 2-hour travel
+
+---
+
+## 🚀 Future Improvements
+
+- Real AI symptom analysis integration
+- Real-time clinic availability
+- Location-based filtering
+- Multi-language support (Tamil + English)
+
+---
+
+## 👩‍💻 Author
+
+Sugashini S  ; Uma Maheswari M
+Final Year CSE Students  
+PSN College of Engineering and Technology
