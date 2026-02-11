@@ -7,9 +7,17 @@ export default function Navbar() {
         <Link to="/" className="text-2xl font-bold text-blue-600">
           🚀 InnovateTN
         </Link>
+
         <div className="flex space-x-6">
-          <Link to="/" className="hover:text-blue-600 font-medium">Home</Link>
-          <Link to="/clinics" className="hover:text-blue-600 font-medium">Clinics</Link>
+          <Link to="/" className="hover:text-blue-600 font-medium">
+            Home
+          </Link>
+          <Link to="/clinics" className="hover:text-blue-600 font-medium">
+            Clinics
+          </Link>
+          <Link to="/symptoms" className="hover:text-blue-600 font-medium">
+            Symptoms
+          </Link>
         </div>
       </div>
     </nav>
