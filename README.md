@@ -1,111 +1,16 @@
-🌿 Rural TN Clinic Booker – Telemedicine App
-TNWISE 2026 | Digital Health Systems & Clinical Engineering
+# React + Vite
 
-📌 Overview
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Rural TN Clinic Booker is a web-based telemedicine appointment booking system designed to improve healthcare accessibility in rural Tamil Nadu.
+Currently, two official plugins are available:
 
-The platform enables patients to easily book appointments, access doctor availability, and receive teleconsultation support through a simple and user-friendly digital interface.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-This project was developed as part of TNWISE 2026 – Tamil Nadu Hackathon for Women in Science & Engineering.
+## React Compiler
 
-🚨 Problem Statement
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-In rural Tamil Nadu, patients often travel long distances for basic medical consultations. Government PHCs face overcrowding, long waiting times, and there is no centralized digital booking system.
+## Expanding the ESLint configuration
 
-Existing telemedicine platforms are mostly urban-focused and not tailored for rural accessibility.
-
-This project aims to bridge that gap with an affordable and scalable solution.
-
-🎯 Objectives
-
-Provide easy clinic booking access for rural citizens
-
-Reduce overcrowding in government hospitals
-
-Enable teleconsultation with available doctors
-
-Offer Tamil + English interface
-
-Develop a scalable, low-cost digital health platform
-
-🛠 Tech Stack
-
-Frontend: React.js
-Backend: Node.js & Express
-Database: MongoDB
-Architecture: REST API-based client-server model
-
-🧠 System Features
-
-Patient Registration & Login
-
-Clinic & Doctor Listing
-
-Appointment Booking System
-
-Real-time Booking Confirmation
-
-Doctor Dashboard
-
-Teleconsultation Module (Prototype Integration)
-
-📊 Prototype Demonstration
-
-The working prototype demonstrates:
-
-End-to-end appointment booking flow
-
-Doctor-side booking notifications
-
-Data storage and retrieval
-
-Simulated teleconsultation interaction
-
-The system is designed to be scalable across districts in Tamil Nadu.
-
-💼 Business Model
-
-Target Users:
-Rural patients, Government PHCs, Private rural clinics
-
-Revenue Model:
-
-Minimal subscription fee from clinics
-
-Government partnership model
-
-CSR healthcare collaboration
-
-Scalability:
-District-wise expansion reduces operational cost per user.
-
-🔮 Future Scope
-
-AI-based health risk prediction
-
-Mobile application development
-
-Integration with government health portals
-
-SMS-based booking for low internet areas
-
-👩‍💻 Team
-
-Team Leader: Sugashini S
-BE Computer Science Engineering – Final Year
-PSN College of Engineering and Technology
-
-Member: Uma Maheswari M
-BE Computer Science Engineering – Final Year
-
-🏆 Hackathon
-
-Developed for:
-TNWISE 2026 – Tamil Nadu Hackathon for Women in Science & Engineering
-
-Theme: Life Science & Health Technology
-Sub-theme: Digital Health Systems & Clinical Engineering
-
-
-LIVE WILL BE AVAILABLE FROM MARCH 1ST 2026☯️🏥
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
